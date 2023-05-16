@@ -1,6 +1,6 @@
-|                                  学习讨论小组🍻                                  |                                                 打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:                                              | 
-|:--------------------------------------------------------------------------:|:-----------------------------------------------------------------------------------------------------------------:| 
-| ![wechat.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/src/WeChatGroup.png) | ![img.png](https://github.com/Cc-Edit/Cc-Edit/blob/main/src/img.png) |
+|    学习讨论小组🍻    |           打赏（赠送学习资料：[webNote](https://github.com/Cc-Edit/webNote)） :confetti_ball:     | 
+|:-------------------------------------------------------------------------------:|:--------------------------------------------------------------------:| 
+| ![wechat.png](https://static.sisjs.com/images/WeChatGroup.png)  | ![img.png](https://static.sisjs.com/images/img.png) |
 
 # webNote
 > 前端知识笔记合集，有深度的源码解析，也有广度的知识入门 <br/>
